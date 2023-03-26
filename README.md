@@ -1,6 +1,6 @@
 # Reminder
 
-This is a reminder app connected to a database ( firebase ).
+This is an IOS reminder app connected to a database ( firebase ).
 
 [WIP ⚠️ ] Implementing a sharing system.
 
